@@ -6,6 +6,8 @@ A command-line tool for converting `.stex` image files from the Godot Engine int
 
 Godot’s `.stex` files are texture files used internally by the engine. These files have a 32-byte header that must be removed to obtain a valid `.png` file. This script handles that process automatically.
 
+![](main.png)
+
 ---
 
 ## 🚀 Features
